@@ -1,14 +1,14 @@
-$border-color: #aeaeae;
-$background-color: #f0f0f0;
-$selected-color: #216ba5;
-$highlighted-color: #3dcc4a;
-$muted-color: #ccc;
-$text-color: #000;
+$background-color: $white;
+$border-color: $gray-light;
+$highlighted-color: $gray-lighter;
+$muted-color: $gray-light;
+$selected-color: $brand-primary;
+$text-color: $black;
 
-$font-size: .8rem;
-$border-radius: .3rem;
-$item-size: 1.7rem;
-$day-margin: .166rem;
-$triangle-size: 8px;
-$datepicker__margin: .4rem;
-$navigation-size: .45rem;
+$border-radius: $border-radius-medium;
+$datepicker__margin: 0.4rem;
+$day-margin: 0.5rem;
+$font-size: 1.4rem;
+$item-size: 2.5rem;
+$navigation-size: 0.5rem;
+$triangle-size: 6px;
